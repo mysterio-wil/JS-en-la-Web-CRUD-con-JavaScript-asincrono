@@ -11,3 +11,11 @@ Browser sync: browser-sync start --server --file . --host --port 5000 --startPat
     - Crear un cliente utilizando el verbo http POST.
     - Remover un elemento del dom con el método remove().
     - Borrar un cliente utilizando el verbo http DELETE.
+
+## Aula4
+
+# Lo que aprendimos en esta aula:
+
+    - Hacer una query string utilizando la propiedad serachParams.get() para encontrar un id.
+    - Crear una IIFE o función autoejecutable.
+    - Editar los datos utilizando el verbo http PUT.
