@@ -19,3 +19,9 @@ Browser sync: browser-sync start --server --file . --host --port 5000 --startPat
     - Hacer una query string utilizando la propiedad serachParams.get() para encontrar un id.
     - Crear una IIFE o función autoejecutable.
     - Editar los datos utilizando el verbo http PUT.
+## Aula5
+
+# Lo que aprendimos en esta aula:
+
+    - Utilizar async/await para indicar funciones asíncronas.
+    - Tratar los errores con try/catch.
